@@ -74,10 +74,10 @@ ${data.test}
 
 ${data.questions}
 
-- [Github](#Github)
-${data.github}
+- [Github](#github)
+  ${data.github}
 - [E-Mail](#E-Mail)
-${data.email}
+  ${data.email}
 `;
 }
 

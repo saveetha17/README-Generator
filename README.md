@@ -14,14 +14,22 @@ ReadME-Generator is a website application, developed to generate a ReadME file f
 
 ## Usage
   
-   <img src="README-Generator\Develop\assets\ScreenShot\screenshot.png" alt="screen shot image">
-
-   
+   ![ScreenShot](./assets/ScreenShot/screenshot.png)
 
 
-## Link to Deployed Application
+
+
+## Link to Github Repository
 
 https://github.com/saveetha17/README-Generator.git
 
-## Link to Github Repository
+## Link to Deployed Application
+
+https://saveetha17.github.io/README-Generator/
+
+## Link to Screencastify Video
+
+https://drive.google.com/file/d/1eeu7XHrRIH1UVZOakwre-JStgswhY6PR/view
+
+
 
